@@ -1,0 +1,6 @@
+scikit-learn ==1.0.2
+pandas 
+requests 
+argparse 
+scipy 
+fastparquet
